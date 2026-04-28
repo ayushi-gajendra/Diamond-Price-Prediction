@@ -64,13 +64,6 @@ Leveraging the insights from Phase 1, I built a predictive model to automate the
 
 ---
 
-## 📂 Repository Structure
-* `Diamond-Analysis-I-HypoTesting.ipynb`: Statistical deep-dive and assumption validation.
-* `Diamond-Analysis-II-LinearRegression.ipynb`: Feature engineering, model training, and performance evaluation.
-* `data/`: Sample dataset containing diamond attributes.
-
----
-
 ## 👤 Author
 **Ayushi Gajendra**
 *Data Professional | Bengaluru-based Strategy & Analytics*
